@@ -1,8 +1,8 @@
 version: 0.1.4
 files:
   - url: https://github.com/NickB926/roster-updates/releases/download/v0.1.4/Roster-0.1.4-setup.exe
-    sha512: 2vQHdPfv6GU0RaWSANU1biBEuCk/miDV/dIQn/wKhjNtBT5Em4wp93/n0ePAeYKVmMvxTuYC0QSP27ugPCxf4g==
-    size: 84543932
+    sha512: n64zvnQy93clSQUASeEL3rB6+XTtHaMMRJZroCcRemu6eafh7huT9eusmANiOY8qYAAJcuFC59CuzlqP5HeCeA==
+    size: 84544123
 path: https://github.com/NickB926/roster-updates/releases/download/v0.1.4/Roster-0.1.4-setup.exe
-sha512: 2vQHdPfv6GU0RaWSANU1biBEuCk/miDV/dIQn/wKhjNtBT5Em4wp93/n0ePAeYKVmMvxTuYC0QSP27ugPCxf4g==
-releaseDate: '2026-08-18T00:00:17.309Z'
+sha512: n64zvnQy93clSQUASeEL3rB6+XTtHaMMRJZroCcRemu6eafh7huT9eusmANiOY8qYAAJcuFC59CuzlqP5HeCeA==
+releaseDate: '2026-08-18T00:08:47.233Z'

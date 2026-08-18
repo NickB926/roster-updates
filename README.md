@@ -1,6 +1,6 @@
 ﻿# Roster installer (Windows)
 
-This repo is **updates only** â€” `latest.yml` for auto-update and links to the installer.
+This repo is **updates only** - latest.yml for auto-update and links to the installer.
 **No app source code is published here.**
 
 ## Download
