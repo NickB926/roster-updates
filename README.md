@@ -6,6 +6,6 @@ This repo is **updates only** - latest.yml for auto-update and links to the inst
 ## Download
 
 - **Latest release:** https://github.com/NickB926/roster-updates/releases/latest
-- **Direct installer (v0.1.8):** https://github.com/NickB926/roster-updates/releases/download/v0.1.8/Roster-0.1.8-setup.exe
+- **Direct installer (v0.2.0):** https://github.com/NickB926/roster-updates/releases/download/v0.2.0/Roster-0.2.0-setup.exe
 
 Install once. The app checks for updates automatically.
